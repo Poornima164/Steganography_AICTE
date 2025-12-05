@@ -76,16 +76,4 @@ python steganography.py
 ![Steganography GUI](Output_files/Decryption.png) 
 ---
 
-## 🛠️ Contribution  
-
-Want to enhance this project? Contributions are welcome! Feel free to submit a pull request.  
-
----
-
-## 📜 License  
-
-This project is **open-source** under the MIT License.  
-
----
-
 💡 **Happy Encrypting! Keep Your Secrets Safe!** 🔥🔑
